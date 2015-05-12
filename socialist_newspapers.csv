@@ -1,22 +1,22 @@
-﻿R;Title;ISSN;Place;Years;Follower;;;
-1;Työmies;fk14802;Helsinki;1895-1910;;;;
-2;Länsi-Suomen Työmies;fk10276;Turku;1898-1906;->;Sosialisti;1906-1910;
-;Sosialisti;fk10460;Tampere;1906-1910;;;;
-3;KansanLehti;1458-0926;Tampere;1898-1910;;;;
-4;Arbetaren (ruotsinkielinen);1458-0519;Helsinki;1901(1904)-1907;;;;
-5;Työ;fk14794;Viipuri;1904-1910;;;;
-6;Forssan Sanomat;fk10061;Forssa;1904-1907;->;Yhdenvertaisuus;;1906?1907
-;Yhdenvertaisuus;fk14894;Forssa;1906-1907;;;;
-7;Eteenpäin;fk14940;Kotka;1905-1910;;;;
-8;KansanTahto;fk10173;Oulu;1906-1910;;;;
-9;Sosialidemokraatti;fk10459;Pori;1906-1910;;;;
-10;Vapaasana;fk14854;Vaasa;1906-1910;;;;
-11;Hämeen Voima;fk10105;Hämeenlinna;1906-1910;;;;
-12;Savon Työmies;fk10445;Kuopio;1906-1910;;;;
-13;Sorretun Voima;fk25048;Jyväskylä;1906-1910;;;;
-14;Työläinen;fk14799;Porvoo;1906-1910;;;;
-15;Vapaus;fk14860;Mikkeli;1906-1910;;;;
-16;Rajavahti;fk10401;Sortavala;1906-1910;;;;
-17;Keski-Suomen Sosialisti;fk10206;Jyväskylä;1907-1908;;;;
-18;Kansan Ääni;fk10180;Lappeenranta;1907-1910;;;;
-19;Raivaaja;fk10397;Lahti;1908-1910;;;;
+﻿R,Title,ISSN,Place,Years,Follower,,,
+1,Työmies,fk14802,Helsinki,1895-1910,,,,
+2,Länsi-Suomen Työmies,fk10276,Turku,1898-1906,->,Sosialisti,1906-1910,
+,Sosialisti,fk10460,Tampere,1906-1910,,,,
+3,KansanLehti,1458-0926,Tampere,1898-1910,,,,
+4,Arbetaren (ruotsinkielinen),1458-0519,Helsinki,1901(1904)-1907,,,,
+5,Työ,fk14794,Viipuri,1904-1910,,,,
+6,Forssan Sanomat,fk10061,Forssa,1904-1907,->,Yhdenvertaisuus,,1906?1907
+,Yhdenvertaisuus,fk14894,Forssa,1906-1907,,,,
+7,Eteenpäin,fk14940,Kotka,1905-1910,,,,
+8,KansanTahto,fk10173,Oulu,1906-1910,,,,
+9,Sosialidemokraatti,fk10459,Pori,1906-1910,,,,
+10,Vapaasana,fk14854,Vaasa,1906-1910,,,,
+11,Hämeen Voima,fk10105,Hämeenlinna,1906-1910,,,,
+12,Savon Työmies,fk10445,Kuopio,1906-1910,,,,
+13,Sorretun Voima,fk25048,Jyväskylä,1906-1910,,,,
+14,Työläinen,fk14799,Porvoo,1906-1910,,,,
+15,Vapaus,fk14860,Mikkeli,1906-1910,,,,
+16,Rajavahti,fk10401,Sortavala,1906-1910,,,,
+17,Keski-Suomen Sosialisti,fk10206,Jyväskylä,1907-1908,,,,
+18,Kansan Ääni,fk10180,Lappeenranta,1907-1910,,,,
+19,Raivaaja,fk10397,Lahti,1908-1910,,,,
